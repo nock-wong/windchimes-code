@@ -1,0 +1,55 @@
+{
+  "timeStamp": 1367297843063,
+  "temperature": 22.2,
+  "humidity": 42.3,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 53.35,
+  "noiseLevel": 52.79
+}{
+  "timeStamp": 1367297855637,
+  "temperature": 22.3,
+  "humidity": 42.4,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 50.15,
+  "noiseLevel": 53.11
+}{
+  "timeStamp": 1367297868211,
+  "temperature": 22.3,
+  "humidity": 42.5,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 64.11,
+  "noiseLevel": 53.42
+}{
+  "timeStamp": 1367297880790,
+  "temperature": 22.2,
+  "humidity": 42.4,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 55.7,
+  "noiseLevel": 55.44
+}{
+  "timeStamp": 1367297893368,
+  "temperature": 22.3,
+  "humidity": 42.7,
+  "windSpeed": 105.6,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 75.04,
+  "noiseLevel": 52.64
+}{
+  "timeStamp": 1367297905943,
+  "temperature": 22.2,
+  "humidity": 42.5,
+  "windSpeed": 45.6,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 69.32,
+  "noiseLevel": 53.88
+}

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<title>windchimes</title>
+
+<link rel='stylesheet' href='/css/rickshaw.min.css'>
+<link rel='stylesheet' href='/css/rickshaw/detail.css'>
+<link rel='stylesheet' href='/css/style.css'>
+
+<script src='/socket.io/socket.io.js'></script>
+<script src='http://d3js.org/d3.v3.min.js'></script>
+<script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+<script src='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js'></script>
+<script src='/js/moment.min.js'></script>
+<script src='/js/rickshaw.min.js'></script>
+
+</head>
+<body>
+
+<div id='content'>
+
+	<header>
+		<a href='/' id='logo'><img src='/images/logo.png' /></a>
+	</header>
+
+	<section id='about'>
+		<div class='profile-pic'>
+			<img src='/images/profile-pic.jpg' />
+			<div class='profile-pic-head'>
+				<div class='profile-pic-name'>
+					Bowery Base
+				</div>
+			</div>
+		</div>
+		<div class='about-data'>
+			<div class='about-data-row'>
+				<h1 class='title about-data-title'>Current</h1>
+				
+				<div class='box-row'>
+					<div class='box temp'><div class='box-data sync'>72</div><div class='box-unit'>F</div></div>
+					<div class='box wind'><div class='box-data sync'>5</div><div class='box-unit'>mph</div></div>
+					<div class='box air'><div class='box-data sync'>52</div><div class='box-unit'>AQI</div></div>
+					<div class='box rain'><div class='box-data sync'>20</div><div class='box-unit'>%</div></div>
+					<div class='box noise'><div class='box-data sync'>40</div><div class='box-unit'>db</div></div>
+				</div>
+			</div>
+			<div class='about-data-row'>
+				<h1 class='title about-data-title'>Forecast</h1>
+				
+				<div class='box-row'>
+					<div class='box temp'><div class='box-data'>68</div><div class='box-unit'>F</div></div>
+					<div class='box wind'><div class='box-data'>3</div><div class='box-unit'>mph</div></div>
+					<div class='box air'><div class='box-data'>32</div><div class='box-unit'>AQI</div></div>
+					<div class='box rain'><div class='box-data'>64</div><div class='box-unit'>%</div></div>
+					<div class='box noise'><div class='box-data'>20</div><div class='box-unit'>db</div></div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id='status' class='profile-block'>
+		<h1 class='title status-title'>Status</h1>
+		
+		<ul class='brief status-list'>
+			<li><a href='/'>Here at the Ideas City Festival, loving the crowd!</a></li>
+		</ul>
+	</section>
+	
+	<section id='news' class='profile-block'>
+		<h1 class='title news-title'>News</h1>
+		
+		<ul class='brief news-list'>
+			<li><a href='/'>Particulate Sensor Maintenance Completed</a></li>
+			<li><a href='/'>House Fire Lowers Air Quality</a></li>
+			<li><a href='/'>Historically Low Temperatures in Region</a></li>
+		</ul>
+	</section>
+	
+	<section id='history' class='profile-block'>
+		<h1 class='title history-title'>Historical Data</h1>
+		<h1 class='title current-data-title'>Current Data</h1>
+		
+		<article class='history-block temp'>
+			<div class='box temp'></div>
+			
+			<div class='historical-chart'></div>
+			
+			<div class='slab-container'>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>F</div></div>
+				<div class='slab slab-rec'></div> 
+			</div>
+		</article>
+		
+		<article class='history-block wind'>
+			<div class='box wind'></div>
+			
+			<div class='historical-chart'></div>
+			
+			<div class='slab-container'>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>mph</div></div>
+				<div class='slab slab-rec'></div> 
+			</div>
+		</article>
+		
+		<article class='history-block air'>
+			<div class='box air'></div>
+			
+			<div class='historical-chart'></div>
+			
+			<div class='slab-container'>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>AQI</div></div>
+				<div class='slab slab-rec'></div> 
+			</div>
+		</article>
+		
+		<article class='history-block rain'>
+			<div class='box rain'></div>
+			
+			<div class='historical-chart'></div>
+			
+			<div class='slab-container'>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>%</div></div>
+				<div class='slab slab-rec'></div> 
+			</div>
+		</article>
+		
+		<article class='history-block noise'>
+			<div class='box noise'></div>
+			
+			<div class='historical-chart'></div>
+			
+			<div class='slab-container'>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>db</div></div>
+				<div class='slab slab-rec'></div> 
+			</div>
+		</article>
+	</section>
+
+</div>
+
+<script src='/js/settings.js'></script>
+<script src='/js/profile.js'></script>
+
+</body>
+</html>
