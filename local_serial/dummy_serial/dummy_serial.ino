@@ -17,6 +17,7 @@ unsigned long last_time;
 void setup (void)
 {
   Serial.begin(BAUD);
+  delay(1000);
 }
 
 void loop (void)
@@ -24,6 +25,7 @@ void loop (void)
   time = millis();
   if (time - last_time > wait_time_ms) 
   {
+    last_time = time;
     Serial.print(22.30);
     Serial.print(',');
     Serial.print(42.60);
