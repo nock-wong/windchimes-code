@@ -13,7 +13,7 @@ function createGraph(series, div) {
 		width : 500,
 		height : 120,
 		renderer : 'line',
-		interpolation : 'cardinal',
+		interpolation : 'step-after',
 		series : series
 	});
 
@@ -75,12 +75,13 @@ $(function() {
 		series = series.concat(dataset.data);
 		
 		// remove data if we have more data than the amount of time elapsed
-		if (series[series.length-1].x - series[0].x > elapsed)
+		if (series[series.length-1].x - series[0].x > elapsed) {
 			series.splice(0, dataset.data.length);
+		}
 		
 		graphs[dataset.name].series[0].data = series;
 		
 		graphs[dataset.name].update();
-		$('.' + dataset.name + ' .sync').text(Math.round(series[0].y));
+		$('.' + dataset.name + ' .sync').text(Math.round(series[series.length-1].y));
 	});
 });
