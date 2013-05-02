@@ -141,12 +141,21 @@ function populateInitial(sensor) {
 		data: []
 	}];
 	
-	var latest = dataLog[dataLog.length-1],
-		time = latest.time,
-		value = latest[sensor];
-	console.log(time);
-	console.log(value);
-	data[0].data.push({x: time, y: value});
+	var currentDate = new Date()/1000;
+	var startDate = currentDate - interval;
+	
+	
+	for (var i = 0; i < dataLog.length; i++) {
+		var time = dataLog[i].time;
+		if (time > startDate) {
+			var value = dataLog[i][sensor];
+			
+			console.log(time);
+			console.log(value);
+			
+			data[0].data.push({x: time, y: value});
+		}
+	}
 	return data;
 }
 
