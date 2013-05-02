@@ -1,59 +1,1103 @@
 {
-  "timeStamp": 1367297843063,
-  "temperature": 22.2,
-  "humidity": 42.3,
+  "timeStamp": 1367454831.258,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454836.263,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454841.268,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454846.274,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454851.275,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454856.28,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454861.285,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454866.29,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454871.3,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454876.301,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454881.306,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454886.311,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454891.316,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454896.321,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454901.326,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454906.331,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454911.337,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454916.342,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454921.347,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454926.352,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454931.357,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454936.362,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454941.368,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454946.373,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454951.378,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454956.383,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454961.388,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454966.393,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454971.399,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454976.404,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454981.409,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454986.414,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454991.419,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367454996.424,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455001.43,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455006.435,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455011.44,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455016.445,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455021.45,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455026.456,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455031.461,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455036.466,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455041.467,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455046.472,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455051.481,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455056.486,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455061.491,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455066.492,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455071.498,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455076.503,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455081.508,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455086.513,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455091.518,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455096.524,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455101.529,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455106.534,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455111.539,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455116.544,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455121.55,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455126.555,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455131.56,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455136.565,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455141.57,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455146.575,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455151.581,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455156.586,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455161.591,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455166.596,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455171.601,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455176.606,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455188.067,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455193.072,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455198.077,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455203.082,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455208.087,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455213.092,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455218.097,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455223.103,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455228.108,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455233.113,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455238.118,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455243.123,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455248.128,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455253.134,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455258.139,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455263.144,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455268.149,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455273.154,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455278.16,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455283.165,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455288.17,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455303.292,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455304.295,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455305.299,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455306.298,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455307.302,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455308.301,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455309.304,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455310.308,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455311.307,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455312.311,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455313.31,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455314.314,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455315.317,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455316.316,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455317.32,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455318.324,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455319.323,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455320.327,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455321.326,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455322.329,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455323.333,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455324.332,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455325.336,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455326.335,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455327.339,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
+  "windDirection": 45,
+  "rainSpeed": 0,
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
+}{
+  "timeStamp": 1367455328.338,
+  "temperature": 22.3,
+  "humidity": 42.6,
   "windSpeed": 0,
   "windDirection": 45,
   "rainSpeed": 0,
-  "airQuality": 53.35,
-  "noiseLevel": 52.79
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
 }{
-  "timeStamp": 1367297855637,
+  "timeStamp": 1367455329.341,
   "temperature": 22.3,
-  "humidity": 42.4,
+  "humidity": 42.6,
   "windSpeed": 0,
   "windDirection": 45,
   "rainSpeed": 0,
-  "airQuality": 50.15,
-  "noiseLevel": 53.11
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
 }{
-  "timeStamp": 1367297868211,
+  "timeStamp": 1367455330.345,
   "temperature": 22.3,
-  "humidity": 42.5,
+  "humidity": 42.6,
   "windSpeed": 0,
   "windDirection": 45,
   "rainSpeed": 0,
-  "airQuality": 64.11,
-  "noiseLevel": 53.42
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
 }{
-  "timeStamp": 1367297880790,
-  "temperature": 22.2,
-  "humidity": 42.4,
+  "timeStamp": 1367455331.344,
+  "temperature": 22.3,
+  "humidity": 42.6,
   "windSpeed": 0,
   "windDirection": 45,
   "rainSpeed": 0,
-  "airQuality": 55.7,
-  "noiseLevel": 55.44
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
 }{
-  "timeStamp": 1367297893368,
+  "timeStamp": 1367455332.348,
   "temperature": 22.3,
-  "humidity": 42.7,
-  "windSpeed": 105.6,
+  "humidity": 42.6,
+  "windSpeed": 0,
   "windDirection": 45,
   "rainSpeed": 0,
-  "airQuality": 75.04,
-  "noiseLevel": 52.64
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
 }{
-  "timeStamp": 1367297905943,
-  "temperature": 22.2,
-  "humidity": 42.5,
-  "windSpeed": 45.6,
+  "timeStamp": 1367455333.347,
+  "temperature": 22.3,
+  "humidity": 42.6,
+  "windSpeed": 0,
   "windDirection": 45,
   "rainSpeed": 0,
-  "airQuality": 69.32,
-  "noiseLevel": 53.88
+  "airQuality": 70.5,
+  "noiseLevel": 53.73
 }{
-  "timeStamp": 1367450973628,
+  "timeStamp": 1367455334.351,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -62,7 +1106,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367450978634,
+  "timeStamp": 1367455335.354,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -71,7 +1115,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367450983638,
+  "timeStamp": 1367455336.354,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -80,7 +1124,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367450988644,
+  "timeStamp": 1367455337.357,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -89,7 +1133,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367450993649,
+  "timeStamp": 1367455338.356,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -98,7 +1142,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367450998654,
+  "timeStamp": 1367455339.36,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -107,7 +1151,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451003659,
+  "timeStamp": 1367455340.363,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -116,7 +1160,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451008664,
+  "timeStamp": 1367455341.363,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -125,7 +1169,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451013669,
+  "timeStamp": 1367455342.366,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -134,7 +1178,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451018675,
+  "timeStamp": 1367455343.366,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -143,7 +1187,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451023680,
+  "timeStamp": 1367455344.369,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -152,7 +1196,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451028685,
+  "timeStamp": 1367455345.373,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -161,7 +1205,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451033690,
+  "timeStamp": 1367455346.372,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -170,7 +1214,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451038695,
+  "timeStamp": 1367455347.376,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -179,7 +1223,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451043701,
+  "timeStamp": 1367455348.375,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -188,7 +1232,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451048706,
+  "timeStamp": 1367455349.379,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -197,7 +1241,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451053711,
+  "timeStamp": 1367455350.378,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -206,7 +1250,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451058716,
+  "timeStamp": 1367455351.382,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -215,7 +1259,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451063717,
+  "timeStamp": 1367455352.385,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -224,7 +1268,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451068726,
+  "timeStamp": 1367455353.384,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -233,7 +1277,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451073731,
+  "timeStamp": 1367455354.388,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -242,7 +1286,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451078737,
+  "timeStamp": 1367455355.391,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -251,7 +1295,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451083742,
+  "timeStamp": 1367455356.391,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -260,7 +1304,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451088743,
+  "timeStamp": 1367455357.394,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -269,7 +1313,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451093752,
+  "timeStamp": 1367455358.394,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -278,7 +1322,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451098757,
+  "timeStamp": 1367455359.397,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -287,7 +1331,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451103762,
+  "timeStamp": 1367455360.401,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -296,7 +1340,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451108768,
+  "timeStamp": 1367455361.4,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -305,7 +1349,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451113768,
+  "timeStamp": 1367455362.403,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -314,7 +1358,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451118774,
+  "timeStamp": 1367455363.403,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -323,7 +1367,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451123783,
+  "timeStamp": 1367455364.406,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -332,7 +1376,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451128788,
+  "timeStamp": 1367455365.406,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -341,7 +1385,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451133793,
+  "timeStamp": 1367455366.409,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -350,7 +1394,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451138794,
+  "timeStamp": 1367455367.413,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -359,7 +1403,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451143799,
+  "timeStamp": 1367455368.412,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -368,7 +1412,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451148809,
+  "timeStamp": 1367455369.416,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -377,7 +1421,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451153814,
+  "timeStamp": 1367455370.415,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -386,7 +1430,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451158815,
+  "timeStamp": 1367455371.419,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -395,7 +1439,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451163820,
+  "timeStamp": 1367455372.422,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -404,7 +1448,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451168825,
+  "timeStamp": 1367455373.422,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -413,7 +1457,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451173831,
+  "timeStamp": 1367455374.425,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -422,7 +1466,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451178840,
+  "timeStamp": 1367455375.424,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -431,7 +1475,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451183841,
+  "timeStamp": 1367455376.428,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -440,7 +1484,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451188846,
+  "timeStamp": 1367455377.431,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -449,7 +1493,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451193851,
+  "timeStamp": 1367455378.431,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -458,7 +1502,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451198856,
+  "timeStamp": 1367455379.434,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -467,7 +1511,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451203861,
+  "timeStamp": 1367455380.434,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -476,7 +1520,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451208867,
+  "timeStamp": 1367455381.437,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -485,7 +1529,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451213872,
+  "timeStamp": 1367455382.441,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -494,7 +1538,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451218877,
+  "timeStamp": 1367455383.44,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -503,7 +1547,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451223882,
+  "timeStamp": 1367455384.443,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -512,7 +1556,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451228887,
+  "timeStamp": 1367455385.443,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -521,7 +1565,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451233892,
+  "timeStamp": 1367455386.446,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -530,7 +1574,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451238898,
+  "timeStamp": 1367455387.446,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -539,7 +1583,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451243903,
+  "timeStamp": 1367455388.449,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -548,7 +1592,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451248908,
+  "timeStamp": 1367455389.453,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -557,7 +1601,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451253913,
+  "timeStamp": 1367455390.452,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -566,7 +1610,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451258918,
+  "timeStamp": 1367455391.456,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -575,7 +1619,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451263923,
+  "timeStamp": 1367455392.455,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -584,7 +1628,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451268928,
+  "timeStamp": 1367455393.458,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -593,7 +1637,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451273934,
+  "timeStamp": 1367455394.462,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -602,7 +1646,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451278939,
+  "timeStamp": 1367455395.466,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -611,7 +1655,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451283944,
+  "timeStamp": 1367455396.465,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -620,7 +1664,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451288949,
+  "timeStamp": 1367455397.468,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -629,7 +1673,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451293955,
+  "timeStamp": 1367455398.467,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -638,7 +1682,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451298959,
+  "timeStamp": 1367455399.471,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -647,7 +1691,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451303965,
+  "timeStamp": 1367455400.471,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -656,7 +1700,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451308970,
+  "timeStamp": 1367455401.474,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -665,7 +1709,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451313975,
+  "timeStamp": 1367455402.477,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -674,7 +1718,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451318980,
+  "timeStamp": 1367455403.477,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -683,7 +1727,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451323986,
+  "timeStamp": 1367455404.48,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -692,7 +1736,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451328990,
+  "timeStamp": 1367455405.48,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -701,7 +1745,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451333996,
+  "timeStamp": 1367455406.483,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -710,7 +1754,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451339001,
+  "timeStamp": 1367455407.487,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -719,7 +1763,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451344006,
+  "timeStamp": 1367455408.486,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -728,7 +1772,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451349011,
+  "timeStamp": 1367455409.49,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -737,7 +1781,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451354016,
+  "timeStamp": 1367455410.489,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -746,7 +1790,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451359022,
+  "timeStamp": 1367455411.493,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -755,7 +1799,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451364027,
+  "timeStamp": 1367455412.496,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -764,7 +1808,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451369032,
+  "timeStamp": 1367455413.495,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -773,7 +1817,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451374037,
+  "timeStamp": 1367455414.499,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -782,7 +1826,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451379042,
+  "timeStamp": 1367455415.498,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -791,7 +1835,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451384047,
+  "timeStamp": 1367455416.502,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -800,7 +1844,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451389052,
+  "timeStamp": 1367455417.501,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -809,7 +1853,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451394058,
+  "timeStamp": 1367455418.505,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -818,7 +1862,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451399063,
+  "timeStamp": 1367455419.508,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -827,7 +1871,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451404068,
+  "timeStamp": 1367455420.507,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -836,7 +1880,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451409073,
+  "timeStamp": 1367455421.511,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -845,7 +1889,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451414078,
+  "timeStamp": 1367455422.51,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -854,7 +1898,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451419083,
+  "timeStamp": 1367455423.514,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -863,7 +1907,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451424089,
+  "timeStamp": 1367455424.517,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -872,7 +1916,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451429094,
+  "timeStamp": 1367455425.517,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -881,7 +1925,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451434099,
+  "timeStamp": 1367455426.52,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -890,7 +1934,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451439104,
+  "timeStamp": 1367455427.52,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -899,7 +1943,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451444109,
+  "timeStamp": 1367455428.523,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -908,7 +1952,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451449114,
+  "timeStamp": 1367455429.527,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -917,7 +1961,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451454120,
+  "timeStamp": 1367455430.526,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -926,7 +1970,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451459125,
+  "timeStamp": 1367455431.529,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -935,7 +1979,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451464130,
+  "timeStamp": 1367455432.529,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -944,7 +1988,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451469135,
+  "timeStamp": 1367455433.532,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -953,7 +1997,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451474140,
+  "timeStamp": 1367455434.536,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -962,7 +2006,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451479145,
+  "timeStamp": 1367455435.535,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -971,7 +2015,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451484150,
+  "timeStamp": 1367455436.539,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -980,7 +2024,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451489156,
+  "timeStamp": 1367455437.538,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -989,7 +2033,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451494161,
+  "timeStamp": 1367455438.542,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -998,7 +2042,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451499166,
+  "timeStamp": 1367455439.545,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1007,7 +2051,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451504171,
+  "timeStamp": 1367455440.545,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1016,7 +2060,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451509176,
+  "timeStamp": 1367455441.548,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1025,7 +2069,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451514182,
+  "timeStamp": 1367455442.552,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1034,7 +2078,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451519187,
+  "timeStamp": 1367455443.551,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1043,7 +2087,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451524192,
+  "timeStamp": 1367455444.554,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1052,7 +2096,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451529197,
+  "timeStamp": 1367455445.554,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1061,7 +2105,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451534202,
+  "timeStamp": 1367455446.557,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1070,7 +2114,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451539207,
+  "timeStamp": 1367455447.561,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1079,7 +2123,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451544213,
+  "timeStamp": 1367455448.56,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1088,7 +2132,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451549218,
+  "timeStamp": 1367455449.564,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1097,7 +2141,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451554223,
+  "timeStamp": 1367455450.563,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1106,7 +2150,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451559228,
+  "timeStamp": 1367455451.567,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1115,7 +2159,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451564233,
+  "timeStamp": 1367455452.566,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1124,7 +2168,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451569238,
+  "timeStamp": 1367455453.57,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1133,7 +2177,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451574244,
+  "timeStamp": 1367455454.569,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1142,7 +2186,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451579248,
+  "timeStamp": 1367455455.572,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1151,7 +2195,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451584254,
+  "timeStamp": 1367455456.576,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1160,7 +2204,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451589259,
+  "timeStamp": 1367455457.575,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1169,7 +2213,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451594264,
+  "timeStamp": 1367455458.579,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1178,7 +2222,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451599269,
+  "timeStamp": 1367455459.582,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1187,7 +2231,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451604275,
+  "timeStamp": 1367455460.581,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1196,7 +2240,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451609280,
+  "timeStamp": 1367455461.585,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1205,7 +2249,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451614285,
+  "timeStamp": 1367455462.584,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1214,7 +2258,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451619290,
+  "timeStamp": 1367455463.588,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1223,7 +2267,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451624295,
+  "timeStamp": 1367455464.591,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1232,7 +2276,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451629300,
+  "timeStamp": 1367455465.591,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1241,7 +2285,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451634306,
+  "timeStamp": 1367455466.594,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1250,7 +2294,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451639311,
+  "timeStamp": 1367455467.594,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1259,7 +2303,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451644316,
+  "timeStamp": 1367455468.597,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1268,7 +2312,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451649321,
+  "timeStamp": 1367455469.596,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1277,7 +2321,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451654326,
+  "timeStamp": 1367455470.6,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1286,7 +2330,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451659331,
+  "timeStamp": 1367455471.604,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1295,7 +2339,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451664336,
+  "timeStamp": 1367455472.603,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1304,7 +2348,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451669342,
+  "timeStamp": 1367455473.606,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1313,7 +2357,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451674347,
+  "timeStamp": 1367455474.61,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1322,7 +2366,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451679352,
+  "timeStamp": 1367455475.609,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1331,7 +2375,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451684357,
+  "timeStamp": 1367455476.613,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1340,7 +2384,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451689362,
+  "timeStamp": 1367455477.612,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1349,7 +2393,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451694367,
+  "timeStamp": 1367455478.616,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1358,7 +2402,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451699373,
+  "timeStamp": 1367455479.619,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1367,7 +2411,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451704378,
+  "timeStamp": 1367455480.619,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1376,7 +2420,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451709383,
+  "timeStamp": 1367455481.622,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1385,7 +2429,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451714388,
+  "timeStamp": 1367455482.622,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1394,7 +2438,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451719393,
+  "timeStamp": 1367455483.625,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1403,7 +2447,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451724399,
+  "timeStamp": 1367455484.624,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1412,7 +2456,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451729404,
+  "timeStamp": 1367455485.628,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1421,7 +2465,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451734409,
+  "timeStamp": 1367455486.631,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1430,7 +2474,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451739414,
+  "timeStamp": 1367455487.631,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1439,7 +2483,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451744419,
+  "timeStamp": 1367455488.634,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1448,7 +2492,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451749424,
+  "timeStamp": 1367455489.634,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1457,7 +2501,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451754429,
+  "timeStamp": 1367455490.637,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1466,7 +2510,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451759435,
+  "timeStamp": 1367455491.641,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1475,7 +2519,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451764440,
+  "timeStamp": 1367455492.64,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1484,7 +2528,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451769445,
+  "timeStamp": 1367455493.643,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1493,7 +2537,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451774446,
+  "timeStamp": 1367455494.643,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1502,7 +2546,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451779451,
+  "timeStamp": 1367455495.646,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1511,7 +2555,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451784461,
+  "timeStamp": 1367455496.65,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1520,7 +2564,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451789466,
+  "timeStamp": 1367455497.649,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1529,7 +2573,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451794471,
+  "timeStamp": 1367455498.653,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1538,7 +2582,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451799472,
+  "timeStamp": 1367455499.652,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1547,7 +2591,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451804477,
+  "timeStamp": 1367455500.655,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1556,7 +2600,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451809482,
+  "timeStamp": 1367455501.659,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1565,7 +2609,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451814491,
+  "timeStamp": 1367455502.659,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1574,7 +2618,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451819497,
+  "timeStamp": 1367455503.662,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1583,7 +2627,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451824498,
+  "timeStamp": 1367455504.661,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1592,7 +2636,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451829503,
+  "timeStamp": 1367455505.665,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1601,7 +2645,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451834508,
+  "timeStamp": 1367455506.664,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1610,7 +2654,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451839513,
+  "timeStamp": 1367455507.668,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1619,7 +2663,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451844522,
+  "timeStamp": 1367455508.671,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1628,7 +2672,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451849523,
+  "timeStamp": 1367455509.671,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1637,7 +2681,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451854529,
+  "timeStamp": 1367455510.674,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1646,7 +2690,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451859534,
+  "timeStamp": 1367455511.678,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1655,7 +2699,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451864539,
+  "timeStamp": 1367455512.677,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1664,7 +2708,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451869544,
+  "timeStamp": 1367455513.68,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1673,7 +2717,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451874549,
+  "timeStamp": 1367455514.684,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1682,7 +2726,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451879554,
+  "timeStamp": 1367455515.684,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1691,7 +2735,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451884560,
+  "timeStamp": 1367455516.687,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1700,7 +2744,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451889565,
+  "timeStamp": 1367455517.686,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1709,7 +2753,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451894570,
+  "timeStamp": 1367455518.69,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1718,7 +2762,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451899575,
+  "timeStamp": 1367455519.689,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1727,7 +2771,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451904580,
+  "timeStamp": 1367455520.693,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1736,7 +2780,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451909585,
+  "timeStamp": 1367455521.696,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1745,7 +2789,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451914590,
+  "timeStamp": 1367455522.695,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1754,7 +2798,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451919596,
+  "timeStamp": 1367455523.699,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1763,7 +2807,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451924601,
+  "timeStamp": 1367455524.698,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1772,7 +2816,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451929606,
+  "timeStamp": 1367455525.702,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1781,7 +2825,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451934611,
+  "timeStamp": 1367455526.705,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1790,7 +2834,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451939616,
+  "timeStamp": 1367455527.705,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1799,7 +2843,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451944621,
+  "timeStamp": 1367455528.708,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1808,7 +2852,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451949627,
+  "timeStamp": 1367455529.708,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1817,7 +2861,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451954632,
+  "timeStamp": 1367455530.711,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1826,7 +2870,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451959637,
+  "timeStamp": 1367455531.715,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1835,7 +2879,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451964642,
+  "timeStamp": 1367455532.714,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1844,7 +2888,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451969648,
+  "timeStamp": 1367455533.717,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1853,7 +2897,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451974652,
+  "timeStamp": 1367455534.717,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1862,7 +2906,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451979658,
+  "timeStamp": 1367455535.72,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1871,7 +2915,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451984663,
+  "timeStamp": 1367455536.72,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1880,7 +2924,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451989668,
+  "timeStamp": 1367455537.723,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1889,7 +2933,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451994673,
+  "timeStamp": 1367455538.727,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1898,7 +2942,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367451999678,
+  "timeStamp": 1367455539.726,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1907,7 +2951,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452004683,
+  "timeStamp": 1367455540.73,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1916,7 +2960,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452009689,
+  "timeStamp": 1367455541.729,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1925,7 +2969,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452014694,
+  "timeStamp": 1367455542.733,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1934,7 +2978,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452019699,
+  "timeStamp": 1367455543.736,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1943,7 +2987,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452024704,
+  "timeStamp": 1367455544.735,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1952,7 +2996,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452029709,
+  "timeStamp": 1367455545.739,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1961,7 +3005,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452034715,
+  "timeStamp": 1367455546.738,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1970,7 +3014,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452039720,
+  "timeStamp": 1367455547.742,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1979,7 +3023,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452044725,
+  "timeStamp": 1367455548.745,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1988,7 +3032,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452049730,
+  "timeStamp": 1367455549.745,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -1997,7 +3041,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452054735,
+  "timeStamp": 1367455550.748,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2006,7 +3050,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452059740,
+  "timeStamp": 1367455551.752,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2015,7 +3059,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452064746,
+  "timeStamp": 1367455552.751,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2024,7 +3068,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452069751,
+  "timeStamp": 1367455553.754,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2033,7 +3077,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452074756,
+  "timeStamp": 1367455554.754,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2042,7 +3086,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452079761,
+  "timeStamp": 1367455555.757,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2051,7 +3095,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452084766,
+  "timeStamp": 1367455556.757,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2060,7 +3104,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452089771,
+  "timeStamp": 1367455557.76,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2069,7 +3113,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452094776,
+  "timeStamp": 1367455558.764,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2078,7 +3122,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452099782,
+  "timeStamp": 1367455559.763,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2087,7 +3131,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452104787,
+  "timeStamp": 1367455560.767,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2096,7 +3140,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452109792,
+  "timeStamp": 1367455561.766,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2105,7 +3149,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452114797,
+  "timeStamp": 1367455562.77,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2114,7 +3158,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452119802,
+  "timeStamp": 1367455563.773,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2123,7 +3167,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452124808,
+  "timeStamp": 1367455564.772,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2132,7 +3176,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452129809,
+  "timeStamp": 1367455565.776,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2141,7 +3185,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452134818,
+  "timeStamp": 1367455566.776,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2150,7 +3194,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452139823,
+  "timeStamp": 1367455567.779,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2159,7 +3203,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452144828,
+  "timeStamp": 1367455568.782,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2168,7 +3212,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452149833,
+  "timeStamp": 1367455569.782,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2177,7 +3221,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452154834,
+  "timeStamp": 1367455570.785,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2186,7 +3230,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452159839,
+  "timeStamp": 1367455571.785,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2195,7 +3239,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452164845,
+  "timeStamp": 1367455572.788,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2204,7 +3248,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452169850,
+  "timeStamp": 1367455573.787,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2213,7 +3257,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452174855,
+  "timeStamp": 1367455574.791,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2222,7 +3266,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452179860,
+  "timeStamp": 1367455575.795,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2231,7 +3275,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452184866,
+  "timeStamp": 1367455576.794,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2240,7 +3284,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452189870,
+  "timeStamp": 1367455577.798,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2249,7 +3293,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452194876,
+  "timeStamp": 1367455578.797,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2258,7 +3302,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452199881,
+  "timeStamp": 1367455579.8,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2267,7 +3311,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452204886,
+  "timeStamp": 1367455580.804,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2276,7 +3320,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452209891,
+  "timeStamp": 1367455581.803,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2285,7 +3329,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452214896,
+  "timeStamp": 1367455582.807,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2294,7 +3338,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452219901,
+  "timeStamp": 1367455583.806,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2303,7 +3347,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452224907,
+  "timeStamp": 1367455584.809,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2312,7 +3356,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452229912,
+  "timeStamp": 1367455585.813,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2321,7 +3365,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452234917,
+  "timeStamp": 1367455586.812,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2330,7 +3374,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452239922,
+  "timeStamp": 1367455587.816,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2339,7 +3383,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452244928,
+  "timeStamp": 1367455588.819,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2348,7 +3392,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452249933,
+  "timeStamp": 1367455589.819,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2357,7 +3401,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452254938,
+  "timeStamp": 1367455590.822,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2366,7 +3410,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452259943,
+  "timeStamp": 1367455591.822,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2375,7 +3419,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452264948,
+  "timeStamp": 1367455592.825,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2384,7 +3428,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452269953,
+  "timeStamp": 1367455593.829,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2393,7 +3437,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452274958,
+  "timeStamp": 1367455594.828,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2402,7 +3446,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452279963,
+  "timeStamp": 1367455595.831,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2411,7 +3455,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452284969,
+  "timeStamp": 1367455596.831,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2420,7 +3464,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452289974,
+  "timeStamp": 1367455597.835,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2429,7 +3473,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452294979,
+  "timeStamp": 1367455598.838,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2438,7 +3482,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452299984,
+  "timeStamp": 1367455599.837,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2447,7 +3491,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452304989,
+  "timeStamp": 1367455600.841,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2456,7 +3500,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452309995,
+  "timeStamp": 1367455601.84,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2465,7 +3509,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452315000,
+  "timeStamp": 1367455602.844,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2474,7 +3518,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452320005,
+  "timeStamp": 1367455603.847,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2483,7 +3527,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452325010,
+  "timeStamp": 1367455604.846,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2492,7 +3536,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452330015,
+  "timeStamp": 1367455605.85,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2501,7 +3545,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452335020,
+  "timeStamp": 1367455606.849,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2510,7 +3554,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452340025,
+  "timeStamp": 1367455607.853,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2519,7 +3563,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452345031,
+  "timeStamp": 1367455608.852,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2528,7 +3572,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452350036,
+  "timeStamp": 1367455609.856,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2537,7 +3581,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452355041,
+  "timeStamp": 1367455610.86,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2546,7 +3590,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452360046,
+  "timeStamp": 1367455611.858,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2555,7 +3599,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452365051,
+  "timeStamp": 1367455612.862,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2564,7 +3608,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452370052,
+  "timeStamp": 1367455613.861,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2573,7 +3617,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452375058,
+  "timeStamp": 1367455614.865,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2582,7 +3626,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452380062,
+  "timeStamp": 1367455615.869,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2591,7 +3635,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452385072,
+  "timeStamp": 1367455616.868,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2600,7 +3644,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452390077,
+  "timeStamp": 1367455617.871,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2609,7 +3653,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452395082,
+  "timeStamp": 1367455618.871,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2618,7 +3662,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452400088,
+  "timeStamp": 1367455619.874,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2627,7 +3671,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452405093,
+  "timeStamp": 1367455620.878,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2636,7 +3680,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452410098,
+  "timeStamp": 1367455621.877,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2645,7 +3689,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452415099,
+  "timeStamp": 1367455622.881,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2654,7 +3698,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452420104,
+  "timeStamp": 1367455623.88,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2663,7 +3707,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452425109,
+  "timeStamp": 1367455624.883,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2672,7 +3716,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452430118,
+  "timeStamp": 1367455625.883,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2681,7 +3725,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452435124,
+  "timeStamp": 1367455626.886,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2690,7 +3734,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452440125,
+  "timeStamp": 1367455627.89,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2699,7 +3743,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452445130,
+  "timeStamp": 1367455628.889,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2708,7 +3752,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452450135,
+  "timeStamp": 1367455629.893,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2717,7 +3761,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452455140,
+  "timeStamp": 1367455630.896,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,
@@ -2726,7 +3770,7 @@
   "airQuality": 70.5,
   "noiseLevel": 53.73
 }{
-  "timeStamp": 1367452460146,
+  "timeStamp": 1367455631.896,
   "temperature": 22.3,
   "humidity": 42.6,
   "windSpeed": 0,

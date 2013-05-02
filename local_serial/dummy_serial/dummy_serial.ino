@@ -8,7 +8,7 @@ Mimics data format of actual Windchimes data output.
 #define BAUD 9600
 // wait_time_ms - delay time (ms) between data updates.
 // will be about 2 minutes (120000) in demo.
-const unsigned long wait_time_ms = 5 * 1000;
+const unsigned long wait_time_ms = 1 * 1000;
 // end Configurables 
 
 unsigned long time;
