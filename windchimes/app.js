@@ -1,9 +1,7 @@
 var express = require('express');
-
 var http = require('http');
 
 var serialport = require('serialport');
-
 var fs = require('fs');
 
 var app = express(),
@@ -13,8 +11,6 @@ var app = express(),
 
 var io = sio.listen(server);
 
-var currentDataLog = new Object();
-
 /* SERIALPORT */
 
 var SERIAL_NAME = '/dev/tty.usbmodemfa131',
@@ -23,7 +19,6 @@ var SERIAL_NAME = '/dev/tty.usbmodemfa131',
 	SERIAL_ENDLINE = '\r\n';
 
 var LOG_FILENAME = './windchimes_log.json';
-
 
 var SerialPort = serialport.SerialPort;
 
@@ -127,7 +122,8 @@ app.get('/js/settings.js', function(req, res) {
 
 app.get('/data', function(req, res) {
 	res.type('application/javascript');
-	res.send(generateInitial(req.query.series, means[req.query.series])); 
+	//res.send(generateInitial(req.query.series, means[req.query.series])); 
+	res.send(populateInitial(req.query.series));
 });
 
 app.configure(function() {
@@ -135,6 +131,21 @@ app.configure(function() {
 });
 
 server.listen(process.env.VCAP_APP_PORT || 8080);
+
+function populateInitial(sensor) {
+// TO-DO: Load data from datalog file
+
+	var interval = 2*60*1000;
+
+	var data = [{
+		name: sensor,
+		data: []
+	}];
+	
+	var time = new Date().getTime() / 1000;
+	data[0].data.push({x: time, y: 0});
+	return data;
+}
 
 var means = {
 		temp: 72,
