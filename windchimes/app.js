@@ -17,7 +17,6 @@ var SERIAL_NAME = '/dev/tty.usbmodemfa131',
 	SERIAL_BAUD = 9600,
 	SERIAL_DELIMITER = ',',
 	SERIAL_ENDLINE = '\r\n';
-
 var LOG_FILENAME = './windchimes_log.json';
 
 var SerialPort = serialport.SerialPort;
@@ -27,7 +26,13 @@ var serialPort = new SerialPort(SERIAL_NAME, {
 	parser: serialport.parsers.readline(SERIAL_ENDLINE)
 });
 
+var dataLog = new Array();
+
 serialPort.on('open', function () {
+	if (fs.existsSync(LOG_FILENAME)) {
+		dataLog = require(LOG_FILENAME);	
+	}
+	console.log(dataLog);
   console.log('Serial port open');
   serialPort.on('data', function(data) {
   	processSerialData(data);
@@ -46,38 +51,30 @@ function processSerialData (data) {
 	var dataStringSplit = dataString.split(SERIAL_DELIMITER); 
 	var date = new Date();
 	
-	var dataLog = new Object();
-	dataLog.timeStamp = date.getTime()/1000;
-	dataLog.temperature = parseFloat(dataStringSplit[0]);
-	dataLog.humidity = parseFloat(dataStringSplit[1]);
-	dataLog.windSpeed = parseFloat(dataStringSplit[2]);
-	dataLog.windDirection = parseFloat(dataStringSplit[3]);
-	dataLog.rainSpeed = parseFloat(dataStringSplit[4]);
-	dataLog.airQuality = parseFloat(dataStringSplit[5]);
-	dataLog.noiseLevel = parseFloat(dataStringSplit[6]);
+	var dataLine = new Object();
+	dataLine.time = date.getTime()/1000;
+	dataLine.temp = parseFloat(dataStringSplit[0]);
+	//dataLine.humidity = parseFloat(dataStringSplit[1]);
+	dataLine.wind = parseFloat(dataStringSplit[2]);
+	//dataLine.windDirection = parseFloat(dataStringSplit[3]);
+	dataLine.rain = parseFloat(dataStringSplit[4]);
+	dataLine.air = parseFloat(dataStringSplit[5]);
+	dataLine.noise = parseFloat(dataStringSplit[6]);
 	
-	console.log(dataLog);
-	fs.appendFile(LOG_FILENAME, JSON.stringify(dataLog, null, 2), function(err) {
+	console.log(dataLine);
+	dataLog.push(dataLine);
+	
+	fs.writeFile(LOG_FILENAME, JSON.stringify(dataLog, null, 2), function(err) {
     	if(err) {
       		console.log(err);
     	} else {
-      	console.log("Log file updated.");
+      	console.log('Log file updated.');
+      	updateData('temp');
+				updateData('wind');
+				updateData('rain');
+				updateData('air');
+				updateData('noise');
     	}
-	}); 
-	
-	pushData('temp', dataLog.timeStamp, dataLog.temperature);
-	pushData('wind', dataLog.timeStamp, dataLog.windSpeed);
-	pushData('rain', dataLog.timeStamp, dataLog.rainSpeed);
-	pushData('air', dataLog.timeStamp, dataLog.airQuality);
-	pushData('noise', dataLog.timeStamp, dataLog.noiseLevel);
-	
-	currentDataLog = dataLog;
-}
-
-function pushData (sensor, time, value) {
-	io.sockets.in(sensor).emit('update', {
-		name: sensor,
-		data: [{x: time, y: value}]
 	});
 }
 
@@ -132,8 +129,10 @@ app.configure(function() {
 
 server.listen(process.env.VCAP_APP_PORT || 8080);
 
-function populateInitial(sensor) {
+
+// Initializes starting data-set to be displayed.
 // TO-DO: Load data from datalog file
+function populateInitial(sensor) {
 
 	var interval = 2*60*1000;
 
@@ -142,50 +141,21 @@ function populateInitial(sensor) {
 		data: []
 	}];
 	
-	var time = new Date().getTime() / 1000;
-	data[0].data.push({x: time, y: 0});
+	var latest = dataLog[dataLog.length-1],
+		time = latest.time,
+		value = latest[sensor];
+	console.log(time);
+	console.log(value);
+	data[0].data.push({x: time, y: value});
 	return data;
 }
 
-var means = {
-		temp: 72,
-		wind: 10,
-		air: 30,
-		rain: 50,
-		noise: 30
-}
-
-/* RANDOM */
-function generateInitial(room, mean) {
-	if (mean === undefined)
-		mean = 5;
-	
-	var data = [{
-		name: room,
-		data: []
-	}];
-	
-	var interval = 2 * 60 * 1000;
-	var start = new Date().getTime() - interval;
-	for (var i = start; i < start + interval; i += interval / 60) {
-		data[0].data.push({x: i / 1000, y: mean + 10 * Math.random() - 5});
-	}
-	
-	return data;
-}
-
-/*
-function generateData(sensor, mean) {
+function updateData (sensor) {
+	var latest = dataLog[dataLog.length-1],
+		time = latest.time,
+		value = latest[sensor];
 	io.sockets.in(sensor).emit('update', {
 		name: sensor,
-		data: [{x: new Date().getTime() / 1000, y: mean + 10 * Math.random() - 5}]
+		data: [{x: time, y: value}]
 	});
 }
-*/
-/*
-setInterval(generateData, 2000, 'temp', 72);
-setInterval(generateData, 2000, 'wind', 10);
-setInterval(generateData, 2000, 'air', 30);
-setInterval(generateData, 2000, 'rain', 50);
-setInterval(generateData, 2000, 'noise', 30);
-*/
