@@ -13,7 +13,7 @@ var io = sio.listen(server);
 
 /* SERIALPORT */
 
-var SERIAL_NAME = '/dev/tty.usbmodemfa131',
+var SERIAL_NAME = '/dev/tty.usbmodemfd121',
 	SERIAL_BAUD = 9600,
 	SERIAL_DELIMITER = ',',
 	SERIAL_ENDLINE = '\r\n';
@@ -27,11 +27,11 @@ var serialPort = new SerialPort(SERIAL_NAME, {
 });
 
 var dataLog = new Array();
+if (fs.existsSync(LOG_FILENAME)) {
+	dataLog = require(LOG_FILENAME);	
+}
 
 serialPort.on('open', function () {
-	if (fs.existsSync(LOG_FILENAME)) {
-		dataLog = require(LOG_FILENAME);	
-	}
 	console.log(dataLog);
   console.log('Serial port open');
   serialPort.on('data', function(data) {
@@ -134,7 +134,7 @@ server.listen(process.env.VCAP_APP_PORT || 8080);
 // TO-DO: Load data from datalog file
 function populateInitial(sensor) {
 
-	var interval = 2*60*1000;
+	var interval = 2 * 60 * 1000;
 
 	var data = [{
 		name: sensor,
@@ -144,15 +144,10 @@ function populateInitial(sensor) {
 	var currentDate = new Date()/1000;
 	var startDate = currentDate - interval;
 	
-	
 	for (var i = 0; i < dataLog.length; i++) {
 		var time = dataLog[i].time;
 		if (time > startDate) {
 			var value = dataLog[i][sensor];
-			
-			console.log(time);
-			console.log(value);
-			
 			data[0].data.push({x: time, y: value});
 		}
 	}

@@ -44,30 +44,35 @@ $(function() {
 	
 	$.get('/data', {series: 'temp'}, function(data) {
 		graphs['temp'] = createGraph(data, $('#history .history-block.temp .historical-chart').first()[0]);
+		$('.' + 'temp' + ' .sync').text(Math.round(data[0].data[data[0].data.length-1].y));
 		socket.emit('join', 'temp');
 	}, 'json');
 	
 	$.get('/data', {series: 'wind'}, function(data) {
 		graphs['wind'] = createGraph(data, $('#history .history-block.wind .historical-chart').first()[0]);
+		$('.' + 'wind' + ' .sync').text(Math.round(data[0].data[data[0].data.length-1].y));
 		socket.emit('join', 'wind');
 	}, 'json');
 	
 	$.get('/data', {series: 'air'}, function(data) {
 		graphs['air'] = createGraph(data, $('#history .history-block.air .historical-chart').first()[0]);
+		$('.' + 'air' + ' .sync').text(Math.round(data[0].data[data[0].data.length-1].y));
 		socket.emit('join', 'air');
 	}, 'json');
 	
 	$.get('/data', {series: 'rain'}, function(data) {
 		graphs['rain'] = createGraph(data, $('#history .history-block.rain .historical-chart').first()[0]);
+		$('.' + 'rain' + ' .sync').text(Math.round(data[0].data[data[0].data.length-1].y));
 		socket.emit('join', 'rain');
 	}, 'json');
 
 	$.get('/data', {series: 'noise'}, function(data) {
 		graphs['noise'] = createGraph(data, $('#history .history-block.noise .historical-chart').first()[0]);
+		$('.' + 'noise' + ' .sync').text(Math.round(data[0].data[data[0].data.length-1].y));
 		socket.emit('join', 'noise');
 	}, 'json');
 	
-	var elapsed = 2 * 60;
+	var elapsed = 2 * 60 * 1000;
 	
 	socket.on('update', function(dataset) {
 		var series = graphs[dataset.name].series[0].data;
