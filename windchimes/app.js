@@ -13,7 +13,7 @@ var io = sio.listen(server);
 
 /* SERIALPORT */
 
-var SERIAL_NAME = '/dev/tty.usbmodemfd121',
+var SERIAL_NAME = '/dev/tty.usbmodemfa131',
 	SERIAL_BAUD = 9600,
 	SERIAL_DELIMITER = ',',
 	SERIAL_ENDLINE = '\r\n';

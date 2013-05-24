@@ -9,9 +9,9 @@
 <link rel='stylesheet' href='/css/style.css'>
 
 <script src='/socket.io/socket.io.js'></script>
-<script src='http://d3js.org/d3.v3.min.js'></script>
-<script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
-<script src='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js'></script>
+<script src='/js/d3.v3.min.js'></script>
+<script src='/js/jquery-1.9.1.min.js'></script>
+<script src='/js/jquery-ui.min.js'></script>
 <script src='/js/moment.min.js'></script>
 <script src='/js/rickshaw.min.js'></script>
 
@@ -38,22 +38,22 @@
 				<h1 class='title about-data-title'>Current</h1>
 				
 				<div class='box-row'>
-					<div class='box temp'><div class='box-data sync'>  </div><div class='box-unit'>F</div></div>
-					<div class='box wind'><div class='box-data sync'>  </div><div class='box-unit'>mph</div></div>
-					<div class='box air'><div class='box-data sync'>  </div><div class='box-unit'>AQI</div></div>
-					<div class='box rain'><div class='box-data sync'>  </div><div class='box-unit'>%</div></div>
-					<div class='box noise'><div class='box-data sync'>  </div><div class='box-unit'>db</div></div>
+					<div class='box temp'><div class='box-data sync'>  </div><div class='box-unit'>C</div></div>
+					<div class='box wind'><div class='box-data sync'>  </div><div class='box-unit'>km/h</div></div>
+					<div class='box air'><div class='box-data sync'>  </div><div class='box-unit'>ug/m3</div></div>
+					<div class='box rain'><div class='box-data sync'>  </div><div class='box-unit'>mm/s</div></div>
+					<div class='box noise'><div class='box-data sync'>  </div><div class='box-unit'>dB</div></div>
 				</div>
 			</div>
 			<div class='about-data-row'>
 				<h1 class='title about-data-title'>Forecast</h1>
 				
 				<div class='box-row'>
-					<div class='box temp'><div class='box-data'>68</div><div class='box-unit'>F</div></div>
-					<div class='box wind'><div class='box-data'>3</div><div class='box-unit'>mph</div></div>
-					<div class='box air'><div class='box-data'>32</div><div class='box-unit'>AQI</div></div>
-					<div class='box rain'><div class='box-data'>64</div><div class='box-unit'>%</div></div>
-					<div class='box noise'><div class='box-data'>20</div><div class='box-unit'>db</div></div>
+					<div class='box temp'><div class='box-data'>17</div><div class='box-unit'>C</div></div>
+					<div class='box wind'><div class='box-data'>23</div><div class='box-unit'>km/h</div></div>
+					<div class='box air'><div class='box-data'>32</div><div class='box-unit'>ug/m3</div></div>
+					<div class='box rain'><div class='box-data'>0</div><div class='box-unit'>mm/s</div></div>
+					<div class='box noise'><div class='box-data'>100</div><div class='box-unit'>dB</div></div>
 				</div>
 			</div>
 		</div>
@@ -63,7 +63,7 @@
 		<h1 class='title status-title'>Status</h1>
 		
 		<ul class='brief status-list'>
-			<li><a href='/'>Here at the Ideas City Festival, loving the crowd!</a></li>
+			<li><a href='/'>Here at the Ideas City StreetFest. Loving the crowd!</a></li>
 		</ul>
 	</section>
 	
@@ -87,7 +87,7 @@
 			<div class='historical-chart'></div>
 			
 			<div class='slab-container'>
-				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>F</div></div>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>C</div></div>
 				<div class='slab slab-rec'></div> 
 			</div>
 		</article>
@@ -98,7 +98,7 @@
 			<div class='historical-chart'></div>
 			
 			<div class='slab-container'>
-				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>mph</div></div>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>km/h</div></div>
 				<div class='slab slab-rec'></div> 
 			</div>
 		</article>
@@ -109,7 +109,7 @@
 			<div class='historical-chart'></div>
 			
 			<div class='slab-container'>
-				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>AQI</div></div>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>ug/m3</div></div>
 				<div class='slab slab-rec'></div> 
 			</div>
 		</article>
@@ -120,7 +120,7 @@
 			<div class='historical-chart'></div>
 			
 			<div class='slab-container'>
-				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>%</div></div>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>mm/s</div></div>
 				<div class='slab slab-rec'></div> 
 			</div>
 		</article>
@@ -131,7 +131,7 @@
 			<div class='historical-chart'></div>
 			
 			<div class='slab-container'>
-				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>db</div></div>
+				<div class='slab slab-status'><div class='slab-data sync'></div><div class='slab-unit'>dB</div></div>
 				<div class='slab slab-rec'></div> 
 			</div>
 		</article>
